@@ -1,0 +1,46 @@
+form{
+    background-color: beige;
+    width: 800px;
+    margin: auto;
+    padding: 5%;
+    border-radius: 20px;
+    color: red; 
+    box-shadow: 5px 5px 10px green;
+
+}
+
+legend{
+    font-size: 300%;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px yellow;
+    margin: 10%;
+
+}
+
+input[type="text"], input[type="password"], input[type="email"], input[type="tel"], input[type="number"], input[type="date"], input[type="datetime-local"], input[type="file"], select{
+
+    width: 100%;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    padding-left: 2%;
+    box-shadow: 10px 10px 10px violet;
+    text-shadow: 10px 10px 10px blue;
+
+}
+
+textarea{
+    border-radius: 20px;
+    color: brown;
+    padding: 20px;
+    background-color: chartreuse;
+
+}
+
+button{
+    display: block;
+    background-color: rgb(136, 12, 236);
+    margin: auto;
+    text-decoration: underline;
+}

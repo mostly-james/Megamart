@@ -1,0 +1,79 @@
+h1{
+
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+
+}
+
+h2{
+    color: red;
+}
+
+#shipping{
+    color: violet;
+}
+
+#paragraph{
+    font-weight: bold;
+}
+
+.new{
+    font-style: italic;
+}
+
+#vip{
+    background-color: aqua;
+    margin: 100px;
+    padding: 50px;
+    border-radius: 20px;
+    color: crimson;
+}
+
+#vip h3{
+    text-align: center;
+    font-size: 30px;
+
+}
+
+#surprises{
+    display: flex;
+    margin: 50px;
+    gap: 25px;
+    background-color: chocolate;
+    padding: 20px;
+
+    
+}
+
+#delivery{
+    display: flex;
+    background-color: blue;
+    padding: 20px;
+    margin: 50px;
+
+
+}
+
+#courses{
+    display: flex;
+    padding: 20px;
+    color: blue;
+    margin-left: 20px;
+    margin-right: 20px;
+
+           
+}
+
+
+#courses button{
+    display: block;
+    margin: auto;
+
+}
+
+
+#courses h3{
+    text-align: center;
+    
+}
